@@ -1,2 +1,2 @@
 # periodicTableC
-cod efr periodic table in c
+code for period table 
